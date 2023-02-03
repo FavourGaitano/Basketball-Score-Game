@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid #1B244A;
+    background: #1B244A;
+    
+}
+.home{ 
+  colour:
+    
+}
+h1{
+    width: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    background: black;
+    color: #F94F6D;
+    font-family: serif;
+    border-radius: 3px;
+    font-size: 60px;
+    font-style: ;
+    
+}
+h3{
+    color:white;
+    margin-left: 30px;
+      
+}
+button{
+    color:#9AABD8;
+    background: #1B244A;
+    font-size: 12px;
+    border: 1px solid #9AABD8;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    
+    
+  
+    
+}
